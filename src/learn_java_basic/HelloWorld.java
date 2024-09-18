@@ -2,6 +2,9 @@ package learn_java_basic;
 
 public class HelloWorld {
 	public static void main(String[] args) {
-		System.out.println("Hello World with Java!");
+		int age = 21;
+		int test;
+		test = 10;
+
 	}
 }
